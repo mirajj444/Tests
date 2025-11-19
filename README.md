@@ -1,2 +1,2 @@
-# Tests
-Barburas Mirela, Tulea Artur, W-2241
+# TestCollab
+Acesta este un proiect de test pentru a exersa colaborarea in Git.
